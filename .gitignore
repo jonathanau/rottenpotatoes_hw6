@@ -5,3 +5,14 @@ TAGS
 db/schema.rb
 log/
 db/*.sqlite3
+
+# Ignore Vim tempfiles
+*~
+*.swp
+*.swo
+
+# Ignore ctags
+tags
+
+# Ignore Bundler output
+.bundle
