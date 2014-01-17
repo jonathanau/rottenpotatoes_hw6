@@ -16,3 +16,6 @@ tags
 
 # Ignore Bundler output
 .bundle
+
+# Ignore tmp files
+tmp
